@@ -1,4 +1,6 @@
-# demo-repository
+# demo-repository information
 Demo for Git introduction
 
-Andrzej Tomczyk
+title: demo-repository
+author: Andrzej Tomczyk
+# demo-repository information
